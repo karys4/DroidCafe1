@@ -1,4 +1,4 @@
-package com.mtw.kary.droidcafe;
+package com.mtw.kary.DroidCafe1;
 
 import org.junit.Test;
 
